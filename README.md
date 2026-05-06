@@ -1,23 +1,22 @@
 # Jeff Slavin
 
-**Senior Technical Writer & Documentation Lead** · Miami, FL  
+**Senior Technical Writer and Documentation Lead** · Miami, FL  
 API · Cloud · Edge · IoT · GitOps · DevSecOps · Docs as Code
 
-I turn complex technical systems into clear developer and user documentation. My work spans OpenAPI 3.0 references, SDK documentation, cloud and edge architecture docs, migration guides, runbooks, and self-service knowledge portals.
+I distill complex technical concepts into clear user and developer documentation, spanning OpenAPI 3.0 references, SDKs, cloud and edge architecture docs, migration guides, runbooks, and self-service portals.
 
-## Portfolio
+## Portfolio and contact
 
 - **Portfolio site:** https://jslavin-docs.github.io
-- **Writing samples:** API docs, REST query schema docs, webhook guides, GCP IoT Core migration docs, and edge deployment documentation
 - **LinkedIn:** https://www.linkedin.com/in/jeff-slavin
 - **Email:** jslavin.docs@gmail.com
 
 ## Highlights
 
-- Reduced retail client hardware costs by **40%** through documentation for a secure AWS edge platform rollout.
-- Increased search success by **60%** through a redesigned information architecture and self-service documentation portal.
-- Reduced migration support tickets by **30%** for 250+ enterprises moving from GCP IoT Core.
-- Accelerated partner integrations from weeks to days using OpenAPI-driven SDK generation.
+- Enabled a **40%** reduction in retail client hardware costs by authoring documentation that accelerated a secure AWS edge platform rollout
+- Increased search success by **60%** through a redesigned information architecture and self-service documentation portal
+- Reduced migration support tickets by **30%** for 250+ enterprises moving from GCP IoT Core
+- Accelerated partner integrations from **weeks to days** using OpenAPI-driven SDK generation
 
 ## Toolchain
 
