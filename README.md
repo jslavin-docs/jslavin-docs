@@ -1,9 +1,9 @@
 # Jeff Slavin
 
-**Senior Technical Writer and Documentation Lead** · Miami, FL  
+**Lead Technical Writer** · Miami, FL  
 API · Cloud · Edge · IoT · GitOps · DevSecOps · Docs as Code
 
-I distill complex technical concepts into clear user and developer documentation, spanning OpenAPI 3.0 references, SDKs, cloud and edge architecture docs, migration guides, runbooks, and self-service portals.
+I own documentation end to end for users and developers, spanning OpenAPI references, SDKs, cloud and edge architecture docs, migration guides, runbooks, and content structured for self-service and AI retrieval.
 
 ## Portfolio and contact
 
@@ -13,14 +13,14 @@ I distill complex technical concepts into clear user and developer documentation
 
 ## Highlights
 
-- Enabled a **40%** reduction in retail client hardware costs by authoring documentation that accelerated a secure AWS edge platform rollout
+- Documented a secure AWS edge platform (Kubernetes, Argo CD, GitOps) whose rollout cut retail client hardware costs by **40%**
 - Increased search success by **60%** through a redesigned information architecture and self-service documentation portal
 - Reduced migration support tickets by **30%** for 250+ enterprises moving from GCP IoT Core
-- Accelerated partner integrations from **weeks to days** using OpenAPI-driven SDK generation
+- Documented the OpenAPI specification behind the interactive API reference and SDK generation, cutting partner integration time from **weeks to days**
 
 ## Toolchain
 
-`MkDocs` · `Astro` · `GitBook` · `Confluence` · `Scroll Sites` · `Zendesk` · `OpenAPI 3.0` · `Swagger` · `Postman` · `Git` · `GitHub Actions` · `Bitbucket` · `Jenkins` · `Mermaid` · `Figma` · `Lucidchart` · `diagrams.net`
+`MkDocs` · `GitBook` · `Confluence` · `Scroll Sites` · `Zendesk` · `OpenAPI` · `Swagger` · `Postman` · `Git` · `GitHub Actions` · `Bitbucket` · `Jenkins` · `Mermaid` · `Lucidchart` · `Python` · `Bash` · `Markdown`
 
 ## Technical domains
 
