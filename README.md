@@ -25,3 +25,8 @@ I own documentation end to end for users and developers, spanning OpenAPI refere
 ## Technical domains
 
 `AWS` · `GCP` · `Kubernetes` · `Amazon EKS` · `Terraform` · `Docker` · `Argo CD` · `Prometheus` · `Grafana` · `Linux` · `IoT` · `Edge Computing` · `Cybersecurity` · `IAM` · `Zero Trust` · `DevSecOps` · `GitOps` · `CI/CD` · `SRE` · `GenAI` · `Cloud Networking` · `Web3`
+
+## Public contributions
+
+- [ClearBlade contribution activity](https://github.com/jslavin-clearblade?tab=overview&from=2023-01-01&to=2023-12-31) — 135 public contributions across 23 ClearBlade repositories in 2023, covering the native code library reference, SDK READMEs, and developer kit documentation
+- [Native code library commits](https://github.com/ClearBlade/native-libraries/commits/master/?author=jslavin-clearblade) — 28 commits to ClearBlade's public native-libraries documentation repository, each with a reviewable diff
