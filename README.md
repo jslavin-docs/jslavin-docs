@@ -24,7 +24,7 @@ I own documentation end to end for users and developers, spanning OpenAPI refere
 
 ## Technical domains
 
-`AWS` · `GCP` · `Kubernetes` · `Amazon EKS` · `Terraform` · `Docker` · `Argo CD` · `Prometheus` · `Grafana` · `Linux` · `IoT` · `Edge Computing` · `Cybersecurity` · `IAM` · `Zero Trust` · `DevSecOps` · `GitOps` · `CI/CD` · `SRE` · `GenAI` · `Cloud Networking` · `Web3`
+`AWS` · `GCP` · `Kubernetes` · `Amazon EKS` · `Terraform` · `Docker` · `Argo CD` · `Prometheus` · `Grafana` · `Linux` · `IoT` · `Edge Computing` · `Cybersecurity` · `IAM` · `Zero Trust` · `DevSecOps` · `GitOps` · `CI/CD` · `SRE` · `GenAI` · `RAG` · `Cloud Networking` · `Web3`
 
 ## Public contributions
 
