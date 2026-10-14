@@ -3,11 +3,12 @@
 **Lead Technical Writer** · Miami, FL  
 API · Cloud · Edge · IoT · GitOps · DevSecOps · Docs as Code
 
-I own documentation end to end for users and developers, spanning OpenAPI references, SDKs, cloud and edge architecture docs, migration guides, runbooks, and content structured for self-service and AI retrieval.
+I own user and developer documentation end to end, spanning OpenAPI references, SDKs, cloud and edge architecture docs, migration guides, runbooks, and content structured for self-service and AI retrieval.
 
 ## Portfolio and contact
 
 - **Portfolio site:** https://jslavin-docs.github.io
+- **Resume:** https://jslavin-docs.github.io/resume/
 - **LinkedIn:** https://www.linkedin.com/in/jeff-slavin
 - **Email:** jslavin.docs@gmail.com
 
